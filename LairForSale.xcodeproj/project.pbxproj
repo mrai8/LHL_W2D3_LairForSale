@@ -1,0 +1,497 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3248717B1EC4BB1D006C1269 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3248717A1EC4BB1D006C1269 /* main.m */; };
+		3248717E1EC4BB1D006C1269 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3248717D1EC4BB1D006C1269 /* AppDelegate.m */; };
+		324871811EC4BB1D006C1269 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 324871801EC4BB1D006C1269 /* ViewController.m */; };
+		324871841EC4BB1D006C1269 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 324871821EC4BB1D006C1269 /* Main.storyboard */; };
+		324871861EC4BB1D006C1269 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 324871851EC4BB1D006C1269 /* Assets.xcassets */; };
+		324871891EC4BB1D006C1269 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 324871871EC4BB1D006C1269 /* LaunchScreen.storyboard */; };
+		324871941EC4BB1E006C1269 /* LairForSaleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 324871931EC4BB1E006C1269 /* LairForSaleTests.m */; };
+		324871AE1EC4CC16006C1269 /* back_porch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3248719F1EC4CC16006C1269 /* back_porch.jpg */; };
+		324871AF1EC4CC16006C1269 /* bathroom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A01EC4CC16006C1269 /* bathroom.jpg */; };
+		324871B01EC4CC16006C1269 /* bedroom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A11EC4CC16006C1269 /* bedroom.jpg */; };
+		324871B11EC4CC16006C1269 /* coat_room.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A21EC4CC16006C1269 /* coat_room.jpg */; };
+		324871B21EC4CC16006C1269 /* cursed_chalice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A31EC4CC16006C1269 /* cursed_chalice.jpg */; };
+		324871B31EC4CC16006C1269 /* dining_room.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A41EC4CC16006C1269 /* dining_room.jpg */; };
+		324871B41EC4CC16006C1269 /* dungeon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A51EC4CC16006C1269 /* dungeon.jpg */; };
+		324871B51EC4CC16006C1269 /* front_door.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A61EC4CC16006C1269 /* front_door.jpg */; };
+		324871B61EC4CC16006C1269 /* generator.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A71EC4CC16006C1269 /* generator.jpg */; };
+		324871B71EC4CC16006C1269 /* kitchen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A81EC4CC16006C1269 /* kitchen.jpg */; };
+		324871B81EC4CC16006C1269 /* labratory.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871A91EC4CC16006C1269 /* labratory.jpg */; };
+		324871B91EC4CC16006C1269 /* library.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871AA1EC4CC16006C1269 /* library.jpg */; };
+		324871BA1EC4CC16006C1269 /* mysterious_lake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871AB1EC4CC16006C1269 /* mysterious_lake.jpg */; };
+		324871BB1EC4CC16006C1269 /* secret_passage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871AC1EC4CC16006C1269 /* secret_passage.jpg */; };
+		324871BC1EC4CC16006C1269 /* stairs_up.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324871AD1EC4CC16006C1269 /* stairs_up.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		324871901EC4BB1E006C1269 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3248716E1EC4BB1D006C1269 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 324871751EC4BB1D006C1269;
+			remoteInfo = LairForSale;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		324871761EC4BB1D006C1269 /* LairForSale.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LairForSale.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3248717A1EC4BB1D006C1269 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3248717C1EC4BB1D006C1269 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3248717D1EC4BB1D006C1269 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3248717F1EC4BB1D006C1269 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		324871801EC4BB1D006C1269 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		324871831EC4BB1D006C1269 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		324871851EC4BB1D006C1269 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		324871881EC4BB1D006C1269 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3248718A1EC4BB1D006C1269 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3248718F1EC4BB1E006C1269 /* LairForSaleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LairForSaleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		324871931EC4BB1E006C1269 /* LairForSaleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LairForSaleTests.m; sourceTree = "<group>"; };
+		324871951EC4BB1E006C1269 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3248719F1EC4CC16006C1269 /* back_porch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back_porch.jpg; sourceTree = "<group>"; };
+		324871A01EC4CC16006C1269 /* bathroom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bathroom.jpg; sourceTree = "<group>"; };
+		324871A11EC4CC16006C1269 /* bedroom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bedroom.jpg; sourceTree = "<group>"; };
+		324871A21EC4CC16006C1269 /* coat_room.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coat_room.jpg; sourceTree = "<group>"; };
+		324871A31EC4CC16006C1269 /* cursed_chalice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cursed_chalice.jpg; sourceTree = "<group>"; };
+		324871A41EC4CC16006C1269 /* dining_room.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dining_room.jpg; sourceTree = "<group>"; };
+		324871A51EC4CC16006C1269 /* dungeon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dungeon.jpg; sourceTree = "<group>"; };
+		324871A61EC4CC16006C1269 /* front_door.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = front_door.jpg; sourceTree = "<group>"; };
+		324871A71EC4CC16006C1269 /* generator.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = generator.jpg; sourceTree = "<group>"; };
+		324871A81EC4CC16006C1269 /* kitchen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitchen.jpg; sourceTree = "<group>"; };
+		324871A91EC4CC16006C1269 /* labratory.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = labratory.jpg; sourceTree = "<group>"; };
+		324871AA1EC4CC16006C1269 /* library.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = library.jpg; sourceTree = "<group>"; };
+		324871AB1EC4CC16006C1269 /* mysterious_lake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mysterious_lake.jpg; sourceTree = "<group>"; };
+		324871AC1EC4CC16006C1269 /* secret_passage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secret_passage.jpg; sourceTree = "<group>"; };
+		324871AD1EC4CC16006C1269 /* stairs_up.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stairs_up.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		324871731EC4BB1D006C1269 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3248718C1EC4BB1E006C1269 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3248716D1EC4BB1D006C1269 = {
+			isa = PBXGroup;
+			children = (
+				324871781EC4BB1D006C1269 /* LairForSale */,
+				324871921EC4BB1E006C1269 /* LairForSaleTests */,
+				324871771EC4BB1D006C1269 /* Products */,
+				3248719E1EC4CC16006C1269 /* images */,
+			);
+			sourceTree = "<group>";
+		};
+		324871771EC4BB1D006C1269 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				324871761EC4BB1D006C1269 /* LairForSale.app */,
+				3248718F1EC4BB1E006C1269 /* LairForSaleTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		324871781EC4BB1D006C1269 /* LairForSale */ = {
+			isa = PBXGroup;
+			children = (
+				3248717C1EC4BB1D006C1269 /* AppDelegate.h */,
+				3248717D1EC4BB1D006C1269 /* AppDelegate.m */,
+				3248717F1EC4BB1D006C1269 /* ViewController.h */,
+				324871801EC4BB1D006C1269 /* ViewController.m */,
+				324871821EC4BB1D006C1269 /* Main.storyboard */,
+				324871851EC4BB1D006C1269 /* Assets.xcassets */,
+				324871871EC4BB1D006C1269 /* LaunchScreen.storyboard */,
+				3248718A1EC4BB1D006C1269 /* Info.plist */,
+				324871791EC4BB1D006C1269 /* Supporting Files */,
+			);
+			path = LairForSale;
+			sourceTree = "<group>";
+		};
+		324871791EC4BB1D006C1269 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3248717A1EC4BB1D006C1269 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		324871921EC4BB1E006C1269 /* LairForSaleTests */ = {
+			isa = PBXGroup;
+			children = (
+				324871931EC4BB1E006C1269 /* LairForSaleTests.m */,
+				324871951EC4BB1E006C1269 /* Info.plist */,
+			);
+			path = LairForSaleTests;
+			sourceTree = "<group>";
+		};
+		3248719E1EC4CC16006C1269 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				3248719F1EC4CC16006C1269 /* back_porch.jpg */,
+				324871A01EC4CC16006C1269 /* bathroom.jpg */,
+				324871A11EC4CC16006C1269 /* bedroom.jpg */,
+				324871A21EC4CC16006C1269 /* coat_room.jpg */,
+				324871A31EC4CC16006C1269 /* cursed_chalice.jpg */,
+				324871A41EC4CC16006C1269 /* dining_room.jpg */,
+				324871A51EC4CC16006C1269 /* dungeon.jpg */,
+				324871A61EC4CC16006C1269 /* front_door.jpg */,
+				324871A71EC4CC16006C1269 /* generator.jpg */,
+				324871A81EC4CC16006C1269 /* kitchen.jpg */,
+				324871A91EC4CC16006C1269 /* labratory.jpg */,
+				324871AA1EC4CC16006C1269 /* library.jpg */,
+				324871AB1EC4CC16006C1269 /* mysterious_lake.jpg */,
+				324871AC1EC4CC16006C1269 /* secret_passage.jpg */,
+				324871AD1EC4CC16006C1269 /* stairs_up.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		324871751EC4BB1D006C1269 /* LairForSale */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 324871981EC4BB1E006C1269 /* Build configuration list for PBXNativeTarget "LairForSale" */;
+			buildPhases = (
+				324871721EC4BB1D006C1269 /* Sources */,
+				324871731EC4BB1D006C1269 /* Frameworks */,
+				324871741EC4BB1D006C1269 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LairForSale;
+			productName = LairForSale;
+			productReference = 324871761EC4BB1D006C1269 /* LairForSale.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3248718E1EC4BB1E006C1269 /* LairForSaleTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3248719B1EC4BB1E006C1269 /* Build configuration list for PBXNativeTarget "LairForSaleTests" */;
+			buildPhases = (
+				3248718B1EC4BB1E006C1269 /* Sources */,
+				3248718C1EC4BB1E006C1269 /* Frameworks */,
+				3248718D1EC4BB1E006C1269 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				324871911EC4BB1E006C1269 /* PBXTargetDependency */,
+			);
+			name = LairForSaleTests;
+			productName = LairForSaleTests;
+			productReference = 3248718F1EC4BB1E006C1269 /* LairForSaleTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3248716E1EC4BB1D006C1269 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = Mandeep;
+				TargetAttributes = {
+					324871751EC4BB1D006C1269 = {
+						CreatedOnToolsVersion = 8.3.2;
+						ProvisioningStyle = Automatic;
+					};
+					3248718E1EC4BB1E006C1269 = {
+						CreatedOnToolsVersion = 8.3.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 324871751EC4BB1D006C1269;
+					};
+				};
+			};
+			buildConfigurationList = 324871711EC4BB1D006C1269 /* Build configuration list for PBXProject "LairForSale" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3248716D1EC4BB1D006C1269;
+			productRefGroup = 324871771EC4BB1D006C1269 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				324871751EC4BB1D006C1269 /* LairForSale */,
+				3248718E1EC4BB1E006C1269 /* LairForSaleTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		324871741EC4BB1D006C1269 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				324871BC1EC4CC16006C1269 /* stairs_up.jpg in Resources */,
+				324871891EC4BB1D006C1269 /* LaunchScreen.storyboard in Resources */,
+				324871AE1EC4CC16006C1269 /* back_porch.jpg in Resources */,
+				324871BA1EC4CC16006C1269 /* mysterious_lake.jpg in Resources */,
+				324871861EC4BB1D006C1269 /* Assets.xcassets in Resources */,
+				324871841EC4BB1D006C1269 /* Main.storyboard in Resources */,
+				324871B31EC4CC16006C1269 /* dining_room.jpg in Resources */,
+				324871B71EC4CC16006C1269 /* kitchen.jpg in Resources */,
+				324871B01EC4CC16006C1269 /* bedroom.jpg in Resources */,
+				324871B11EC4CC16006C1269 /* coat_room.jpg in Resources */,
+				324871B81EC4CC16006C1269 /* labratory.jpg in Resources */,
+				324871AF1EC4CC16006C1269 /* bathroom.jpg in Resources */,
+				324871B91EC4CC16006C1269 /* library.jpg in Resources */,
+				324871B41EC4CC16006C1269 /* dungeon.jpg in Resources */,
+				324871B21EC4CC16006C1269 /* cursed_chalice.jpg in Resources */,
+				324871B51EC4CC16006C1269 /* front_door.jpg in Resources */,
+				324871BB1EC4CC16006C1269 /* secret_passage.jpg in Resources */,
+				324871B61EC4CC16006C1269 /* generator.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3248718D1EC4BB1E006C1269 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		324871721EC4BB1D006C1269 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				324871811EC4BB1D006C1269 /* ViewController.m in Sources */,
+				3248717E1EC4BB1D006C1269 /* AppDelegate.m in Sources */,
+				3248717B1EC4BB1D006C1269 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3248718B1EC4BB1E006C1269 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				324871941EC4BB1E006C1269 /* LairForSaleTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		324871911EC4BB1E006C1269 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 324871751EC4BB1D006C1269 /* LairForSale */;
+			targetProxy = 324871901EC4BB1E006C1269 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		324871821EC4BB1D006C1269 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				324871831EC4BB1D006C1269 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		324871871EC4BB1D006C1269 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				324871881EC4BB1D006C1269 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		324871961EC4BB1E006C1269 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		324871971EC4BB1E006C1269 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		324871991EC4BB1E006C1269 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = LairForSale/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "lighthouse-labs.LairForSale";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3248719A1EC4BB1E006C1269 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = LairForSale/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "lighthouse-labs.LairForSale";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3248719C1EC4BB1E006C1269 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = LairForSaleTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "lighthouse-labs.LairForSaleTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LairForSale.app/LairForSale";
+			};
+			name = Debug;
+		};
+		3248719D1EC4BB1E006C1269 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = LairForSaleTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "lighthouse-labs.LairForSaleTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LairForSale.app/LairForSale";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		324871711EC4BB1D006C1269 /* Build configuration list for PBXProject "LairForSale" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				324871961EC4BB1E006C1269 /* Debug */,
+				324871971EC4BB1E006C1269 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		324871981EC4BB1E006C1269 /* Build configuration list for PBXNativeTarget "LairForSale" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				324871991EC4BB1E006C1269 /* Debug */,
+				3248719A1EC4BB1E006C1269 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3248719B1EC4BB1E006C1269 /* Build configuration list for PBXNativeTarget "LairForSaleTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3248719C1EC4BB1E006C1269 /* Debug */,
+				3248719D1EC4BB1E006C1269 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3248716E1EC4BB1D006C1269 /* Project object */;
+}
